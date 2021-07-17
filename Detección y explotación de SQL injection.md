@@ -245,3 +245,5 @@ Ahora sabemos que el valor proporcionado en la URL se inserta directamente en la
             Con esto podemos deducir que el numero de columnas es 3, ahora podemos usar esta información para construir la consulta final:
 
             `SELECT id,nombre,precio FROM articulos where id=1 UNION SELECT 1,2,3`
+
+### Obteniendo Información ... (Esperalo pronto)
