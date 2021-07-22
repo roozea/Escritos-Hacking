@@ -10,4 +10,4 @@ Happy Hunting
 
 ---
 
-1.- Detección y explotación de SQL injection - / [Github](https://github.com/roozea/Escritos-Hacking/blob/main/Deteccio%CC%81n%20y%20explotacio%CC%81n%20de%20SQL%20injection.md) / [Notion](https://www.notion.so/Detecci-n-y-explotaci-n-de-SQL-injection-24f65627e32b4535be0b3ac22d035b80) / Medium
+### **1.- Detección y explotación de SQL injection** - / [Github](https://github.com/roozea/Escritos-Hacking/blob/main/Deteccio%CC%81n%20y%20explotacio%CC%81n%20de%20SQL%20injection.md) / [Notion](https://www.notion.so/Detecci-n-y-explotaci-n-de-SQL-injection-24f65627e32b4535be0b3ac22d035b80) / Medium
